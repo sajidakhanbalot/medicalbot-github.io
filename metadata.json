@@ -1,0 +1,8 @@
+{
+  "name": "Aura Health AI Assistant",
+  "description": "An advanced virtual health agent capable of analyzing medications from images, providing voice-activated health consultations, and managing medical appointments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
